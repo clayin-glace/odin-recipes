@@ -40,6 +40,10 @@ ul.food a:active {
   color: aqua;
 }
 
+p.description {
+  color: peru;
+}
+
 ul.ingredients {
   color: darkslategray;
 }
