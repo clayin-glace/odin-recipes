@@ -1,16 +1,10 @@
-a:link {
+a.food:link, 
+a.food:visited {
   color: orange;
   font-size: 50px;
 }
 
-a:visited {
-  color: orange;
-}
-
-a:hover {
-  color: aqua;
-}
-
-a:active {
+a.food:hover, 
+a.food:active {
   color: aqua;
 }
