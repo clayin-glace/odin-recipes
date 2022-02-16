@@ -4,17 +4,17 @@ h1 {
   text-align: center;
 }
 
-a.food {
+ul.food {
   font-size: 50px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-a.food:link, 
-a.food:visited {
+ul.food a:link, 
+ul.food a:visited {
   color: orange;
 }
 
-a.food:hover, 
-a.food:active {
+ul.food a:hover, 
+ul.food a:active {
   color: aqua;
 }
