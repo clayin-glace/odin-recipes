@@ -43,3 +43,7 @@ ul.food a:active {
 ul.ingredients {
   color: darkslategray;
 }
+
+ol.steps {
+  color: darkolivegreen;
+}
