@@ -39,3 +39,7 @@ ul.food a:hover,
 ul.food a:active {
   color: aqua;
 }
+
+ul.ingredients {
+  color: darkslategray;
+}
