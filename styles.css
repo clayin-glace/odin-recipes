@@ -10,11 +10,10 @@ h3 {
   line-height: 30%;
 }
 
-p {
-  margin-top: 1%;
-  margin-left: 1%;
-  margin-right: 1%;
-  margin-bottom: 1%;
+p,
+ul.ingredients,
+ol.steps {
+  margin: 1% 1% 1% 1%;
 }
 
 img {
@@ -46,12 +45,8 @@ p.description {
 
 ul.ingredients {
   color: darkslategray;
-  margin-left: 1%;
-  margin-right: 1%;
 }
 
 ol.steps {
   color: darkolivegreen;
-  margin-left: 1%;
-  margin-right: 1%;
 }
