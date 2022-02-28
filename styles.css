@@ -18,7 +18,7 @@ p,
 ul,
 ol {
   display: block;
-  margin: 1em;
+  margin: 0px 20px 0px 20px;
   border: 5px solid aqua;
   padding: 0.25em;
   padding-left: 3em;
